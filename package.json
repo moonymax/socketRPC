@@ -1,0 +1,17 @@
+{
+  "name": "socketrpc",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20.6.4",
+    "@types/ws": "^8.5.5",
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "ws": "^8.14.2",
+    "zod": "^3.22.2"
+  }
+}
