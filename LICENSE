@@ -1,0 +1,59 @@
+Language Model Lab License
+
+Copyright (c) 2026 Valentin Schimpf. All rights reserved.
+
+1. Definitions
+
+   "Material" means everything in this repository: source code, documentation,
+   findings, notes, logs, data, model weights and any other files, including
+   their history.
+
+   "Author" means the copyright holder named above.
+
+   "Training" means using the Material, in whole or in part, directly or
+   indirectly, as input to create, train, fine-tune, distill, evaluate or
+   otherwise improve any machine learning model or AI system. This includes
+   placing the Material in a training, fine-tuning, distillation or retrieval
+   dataset, and collecting it by scraping or crawling for any such purpose.
+
+2. No use without explicit agreement
+
+   No right of any kind is granted. You may not copy, download, run, modify,
+   distribute, publish, sublicense, sell or otherwise use the Material, in
+   whole or in part, for any purpose, unless the Author has given you explicit
+   prior written permission. Any permission the Author gives covers only what
+   it states.
+
+3. Training requires a written agreement
+
+   Training on the Material is permitted only under a separate written
+   agreement, negotiated with and signed by the Author before any Training
+   takes place.
+
+4. Fee for Training without an agreement
+
+   Any person or organization that performs Training without a written
+   agreement under section 3 agrees to pay the Author a fee of USD
+   1,000,000,000 (one billion United States dollars). This fee is in addition
+   to any other remedy available to the Author under applicable law, including
+   injunctive relief and the deletion of any model, dataset or derived work
+   created through such Training.
+
+5. Acceptance
+
+   By accessing, copying or using the Material in any way, you accept the
+   terms of this License. If you do not accept them, you may not access, copy
+   or use the Material.
+
+6. No warranty
+
+   THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT
+   OF OR IN CONNECTION WITH THE MATERIAL OR ITS USE.
+
+7. Contact
+
+   To request permission or negotiate a Training agreement, contact the Author
+   through the repository's hosting page.
