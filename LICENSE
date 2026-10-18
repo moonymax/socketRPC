@@ -1,4 +1,4 @@
-Language Model Lab License
+Proprietary License
 
 Copyright (c) 2026 Valentin Schimpf. All rights reserved.
 
@@ -10,42 +10,42 @@ Copyright (c) 2026 Valentin Schimpf. All rights reserved.
 
    "Author" means the copyright holder named above.
 
+   "Use" means any act involving the Material, including copying, downloading,
+   cloning, running, modifying, distributing, publishing, sublicensing,
+   selling, and Training.
+
    "Training" means using the Material, in whole or in part, directly or
    indirectly, as input to create, train, fine-tune, distill, evaluate or
    otherwise improve any machine learning model or AI system. This includes
    placing the Material in a training, fine-tuning, distillation or retrieval
    dataset, and collecting it by scraping or crawling for any such purpose.
 
-2. No use without explicit agreement
+2. No rights granted
 
-   No right of any kind is granted. You may not copy, download, run, modify,
-   distribute, publish, sublicense, sell or otherwise use the Material, in
-   whole or in part, for any purpose, unless the Author has given you explicit
-   prior written permission. Any permission the Author gives covers only what
-   it states.
+   This License is not permissive. No right or license of any kind is granted,
+   whether express or implied, by estoppel or otherwise. Any Use of the
+   Material requires the Author's explicit prior written agreement. Any
+   agreement covers only what it expressly states.
 
-3. Training requires a written agreement
+3. Violation
 
-   Training on the Material is permitted only under a separate written
-   agreement, negotiated with and signed by the Author before any Training
-   takes place.
+   Any Use of the Material without the Author's explicit prior written
+   agreement, or beyond the scope of such an agreement, is a violation of this
+   License.
 
-4. Fee for Training without an agreement
+   Any person or organization that violates this License agrees to pay the
+   Author USD 1,000,000,000 (one billion United States dollars). This payment
+   is in addition to any other remedy available to the Author under applicable
+   law, including injunctive relief and the deletion of any copy, model,
+   dataset or derived work created through the violation.
 
-   Any person or organization that performs Training without a written
-   agreement under section 3 agrees to pay the Author a fee of USD
-   1,000,000,000 (one billion United States dollars). This fee is in addition
-   to any other remedy available to the Author under applicable law, including
-   injunctive relief and the deletion of any model, dataset or derived work
-   created through such Training.
-
-5. Acceptance
+4. Acceptance
 
    By accessing, copying or using the Material in any way, you accept the
    terms of this License. If you do not accept them, you may not access, copy
    or use the Material.
 
-6. No warranty
+5. No warranty
 
    THE MATERIAL IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -53,7 +53,7 @@ Copyright (c) 2026 Valentin Schimpf. All rights reserved.
    AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT
    OF OR IN CONNECTION WITH THE MATERIAL OR ITS USE.
 
-7. Contact
+6. Contact
 
-   To request permission or negotiate a Training agreement, contact the Author
-   through the repository's hosting page.
+   To request a written agreement, contact the Author through the
+   repository's hosting page.
